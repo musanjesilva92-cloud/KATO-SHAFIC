@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(144, 161, 156);
+}
+.EE{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(231, 191, 191);
+}
+.PAR{
+    color: rgb(9, 218, 9);
+    font-size: xx-large;
+}
+.KK{
+    display: flex;
+    justify-content: space-between;
+}
